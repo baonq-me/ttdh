@@ -1,0 +1,81 @@
+{
+  "nc0": {
+    "text": "NC0",
+    "advices": [
+      "1. Để tăng cường sức khỏe, (bác/anh/chị) nên ngủ đủ giác uống đủ 2l nước/ngày, ăn uống đúng bữa và đầy đủ dinh dưỡng.",
+      "2. Thực hiện các bài tập thể dục tại nhà: yoga, gym, bài tập vận động tay chân phù hợp,…; đi nhón mũi chân, hóp bụng, hít thở đều, ít nhất 30p/ngày",
+      "3. Tập hít thở 3 lần/ngày",
+      "4. Súc miệng, khử khuẩn họng ít nhất 4 lần/ngày bằng nước muối, nước sát khuẩn an toàn",
+      "5. Cần bảo đảm vệ sinh trong ăn uống, sinh hoạt. Làm sạch các bề mặt, mở cửa thông thoáng, đón ánh nắng trực tiếp vào nhà",
+      "6. Luôn đeo khẩu trang kể cả lúc đi vệ sinh, rửa tay thường xuyên. ",
+      "7. Đo nhiệt độ, nhịp thở, huyết áp 2 lần/ngày",
+      "8. Nên ở phòng riêng,  Luôn giữ khoảng cách với những người xung quanh. ",
+      "9. Nâng sức khỏe tinh thần, bằng cách tự học thiền, nghe kinh phật, kinh thánh,pháp thoại,…có yếu tố tích cực",
+      "10. Chuẩn bị 1 số thuốc như: hạ sốt, tiêu chảy, thuốc/kẹo giúp giảm đau họng, viên bù nước oresol, nước muối súc miệng, xịt rửa mũi, vitamin tăng đề kháng",
+      "11. Trường hợp của (Bác) sẽ vào BV thu dung, hiện tại có thể rất động BN, vì đây là nơi dành cho BN nhẹ, như trường hợp cùa Bác. Sẽ không thoải mái như tự chăm sóc ở nhà. Nên Bác cố gắng nha. ",
+      "12. Tuy nhiên, khi có các dấu hiệu khó thở, mệt hơn, đau ngực, lạnh đầu ngón tay chân,…. cần liên hệ với số 18001119 hoặc 1022 hoặc với số điện thoại đang gọi đến (bác/anh/chị) để được hỗ trợ kịp thời."
+    ],
+    "notes": ["NC0: Tự theo dõi tại nhà", "NC0: TNV theo dõi 2 lần/ngày", "NC0: Theo dõi tiếp"]
+  },
+  "nc1": {
+    "text": "NC1",
+    "advices": [
+      "1. Hướng dẫn tự chăm sóc tại nhà như trên",
+      "2. Chú trọng thêm phần thuốc hỗ trợ điều trị triệu chứng",
+      "3. Khẳng định TNV sẽ liên hệ hỗ trợ 2 lần/ngày. ",
+      "4. Nếu có dấu hiệu/triệu chứng nặng lên => Gọi điện cho số điện thoại đang gọi đến."
+    ],
+    "notes": [
+      "NC1: Ở tại nhà-theo dõi y tế",
+      "NC1: NVYT theo dõi 2 lần/ngày",
+      "NC1: Theo dõi tiếp\n(Ghi nhận trường hợp cần theo dõi y tế các ngày tiếp theo)"
+    ]
+  },
+  "nc2": {
+    "text": "NC2",
+    "advices": [
+      "1. Giới thiệu số điện thoại của Trung tâm y tế Quận.",
+      "2. Bác sỹ hướng dẫn tự chăm sóc tại nhà như trên, Khẳng định BÁC SĨ sẽ liên hệ hỗ trợ 2 lần/ngày",
+      "3. Chú trọng thêm phần thuốc hỗ trợ điều trị triệu chứng."
+    ],
+    "notes": [
+      "NC2: Ở tại nhà-theo dõi sát y tế",
+      "NC2: Bác sỹ theo dõi 2 lần/ngày",
+      "NC2: Theo dõi tiếp",
+      "(thông báo cho đường dây nóng của Quận/huyện).",
+      "Ghi nhận trường hợp cần theo dõi y tế các ngày tiếp theo."
+    ]
+  },
+  "nc3": {
+    "text": "NC3",
+    "advices": [
+      "1. Trấn an người nhà và NB",
+      "2. Liên hệ TTYT báo tình trạng nguy cơ cao, cần người trực tiếp thăm khám, mang theo SpO2",
+      "3. Chủ động kiểm tra tình trạng giường trống tại BV Tầng 2,3 (hotline 0903.071.077 – phối hợp TTYT)",
+      "4. Phối hợp TTYT, 115 chuyển NB đến BV nếu đúng nguy cơ"
+    ],
+    "notes": [
+      "NC3: Bắt buộc nhập viện",
+      "NC3: Chuyển Bác sỹ chuyên khoa Covid",
+      "NC3: Kết thúc tư vấn, gọi điện thoại theo số: 0903.071.077",
+      "(thông báo trường hợp và tình trạng phân loại nặng cần nhập viện hoặc nghiêm trọng cần cấp cứu).",
+      "Ghi nhận trường hợp cần theo dõi y tế các ngày tiếp theo."
+    ]
+  },
+  "nc4": {
+    "text": "NC4",
+    "advices": [
+      "1. Trấn an người nhà và NB",
+      "2. Liên hệ TTYT báo tình trạng KHẨN CẤP nguy cơ cao, cần người trực tiếp thăm khám, mang theo SpO2",
+      "3. Chủ động kiểm tra tình trạng giường trống tại BV Tầng 2,3 (hotline 0903.071.077 – phối hợp TTYT)",
+      "4. Chuyển viện gấp bằng tất cả các phương tiện có thể"
+    ],
+    "notes": [
+      "NC4: Chuyển cấp cứu gấp",
+      "NC4: Chuyển Bác sỹ chuyên khoa Covid",
+      "NC4: Kết thúc tư vấn, gọi điện thoại theo số: 0903.071.077",
+      "(thông báo trường hợp và tình trạng phân loại nặng cần nhập viện hoặc nghiêm trọng cần cấp cứu).",
+      "Ghi nhận trường hợp cần theo dõi y tế các ngày tiếp theo."
+    ]
+  }
+}

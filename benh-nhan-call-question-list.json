@@ -1,0 +1,176 @@
+[
+  {
+    "section_id": "S1000",
+    "text": "Các triệu chứng nặng",
+    "question_list": [
+      {
+        "value": "Q152",
+        "text": "Các triệu chứng thường gặp (khởi phát) nặng lên liên tục không đỡ",
+        "weight": 4
+      },
+      {
+        "value": "Q200",
+        "text": "Sốt cao từ 39 độ C không đáp ứng với thuốc hạ sốt (sốt trở lại trong vòng 02h sau dùng thuốc)",
+        "weight": 4
+      },
+      {
+        "value": "Q340",
+        "text": "Khó thở không thể làm việc được phải nghỉ ngơi",
+        "weight": 4
+      },
+      {
+        "value": "Q341",
+        "text": "Mệt mỏi, sinh hoạt khó khăn",
+        "weight": 4
+      },
+      {
+        "value": "Q354",
+        "text": "Huyết áp tăng cao từ 160/100 mmHg không đáp ứng với thuốc thường dùng",
+        "weight": 4
+      }
+    ]
+  },
+
+  {
+    "section_id": "S2000",
+    "text": "Các triệu chứng/dấu hiệu nghiêm trọng (biến chứng/toàn phát)",
+    "question_list": [
+      {
+        "value": "Q365",
+        "text": "Đo huyết áp 2 lần có giá trị trung bình dưới 85/55 mmHg",
+        "weight": 6
+      },
+      {
+        "value": "Q372",
+        "text": "Nhịp tim tăng cao trên 120 lần/phút hoặc xuống dưới 50 lần/phút, hoặc nhịp thở từ 25 lần/phút",
+        "weight": 6
+      },
+      {
+        "value": "Q382",
+        "text": "Khó thở nhiều không thể nằm để thở",
+        "weight": 6
+      },
+      {
+        "value": "Q392",
+        "text": "Đau tức ngực thành cơn kéo dài từ 5’",
+        "weight": 6
+      },
+      {
+        "value": "Q407",
+        "text": "Mất khả năng nói hoặc cử động",
+        "weight": 6
+      },
+      {
+        "value": "Q409",
+        "text": "Lơ mơ, không tỉnh táo",
+        "weight": 6
+      },
+      {
+        "value": "Q423",
+        "text": "SpO2 < 94% khi nghỉ hoặc tụt SpO2 xuống < 94% sau gắng sức (nếu có thiết bị đo SpO2 tại nhà)",
+        "weight": 6
+      }
+    ]
+  },
+
+  {
+    "section_id": "S3000",
+    "text": "Các triệu chứng ít gặp",
+    "question_list": [
+      {
+        "value": "Q463",
+        "text": "Tiêu chảy",
+        "weight": 2
+      },
+      {
+        "value": "Q494",
+        "text": "Viêm kết mạc",
+        "weight": 2
+      },
+      {
+        "value": "Q549",
+        "text": "Mất vị giác hoặc khứu giác",
+        "weight": 2
+      },
+      {
+        "value": "Q577",
+        "text": "Da nổi mẩn hay ngón tay hoặc ngón chân bị tấy đỏ hoặc tím tái",
+        "weight": 2
+      }
+    ]
+  },
+
+  {
+    "section_id": "S4000",
+    "text": "Các triệu chứng thường gặp (khởi phát)",
+    "question_list": [
+      {
+        "value": "Q597",
+        "text": "Sốt dưới 39 độ C",
+        "weight": 1
+      },
+      {
+        "value": "Q618",
+        "text": "Ho khan, đau họng",
+        "weight": 1
+      },
+      {
+        "value": "Q638",
+        "text": "Mệt mỏi nhưng vẫn sinh hoạt bình thường",
+        "weight": 1
+      },
+      {
+        "value": "Q662",
+        "text": "Đau nhức cơ thể",
+        "weight": 1
+      },
+      {
+        "value": "Q672",
+        "text": "Khó thở nhẹ",
+        "weight": 1
+      },
+      {
+        "value": "Q699",
+        "text": "Đau đầu",
+        "weight": 1
+      }
+    ]
+  },
+
+  {
+    "section_id": "S5000",
+    "text": "Các yếu tố tăng nặng",
+    "question_list": [
+      {
+        "value": "Q726",
+        "text": "Có bệnh nền tim mạch, hô hấp đang điều trị",
+        "weight": 4
+      },
+      {
+        "value": "Q749",
+        "text": "Có bệnh lý ung thư mạn tính đang điều trị",
+        "weight": 4
+      },
+      {
+        "value": "Q926",
+        "text": "Có bệnh lý suy thận mạn tính đang điều trị",
+        "weight": 4
+      },
+      {
+        "value": "Q968",
+        "text": "Viêm gan đang hoạt động, suy giảm chức năng gan",
+        "weight": 4
+      },
+      {
+        "value": "Q982",
+        "text": "Người cao tuổi từ 65 tuổi trở lên",
+        "weight": 4
+      },
+      {
+        "value": "Q985",
+        "text": "Thừa cân, béo phì với BMI từ 25 kg/cm2 trở lên",
+        "weight": 4
+      }
+    ]
+  }
+]
